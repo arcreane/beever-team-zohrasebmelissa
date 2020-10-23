@@ -154,7 +154,6 @@ public class Main {
             if ((repLigne == ligneMarmote)&&(repColonne==colonneMarmote)){
 
                 return true;
-
             }
             else{ return false;}
 
